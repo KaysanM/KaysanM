@@ -4,7 +4,7 @@
 - 💞️ My goals are to understand Python and Java.
 - I'm not concerned.
 - I'm excited for the formals as well as the dances.
-- 📫 How to reach me: Email-kmarinez26@groton.org
+- 📫 How to reach me: kmarinez26@groton.org
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 

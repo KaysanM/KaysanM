@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @KaysanM
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...l
+- 👀 Home is New York City with my mother, father and older brother.
+- 🌱 I have no previous coding experience.
+- 💞️ My goals are to understand Python and Java.
+- I'm not concerned.
+- I'm excited for the formals as well as the dances.
 - 📫 How to reach me: Email-kmarinez26@groton.org
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
